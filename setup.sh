@@ -117,5 +117,3 @@ sudo apt-get update
 git clone https://github.com/1N3/Sn1per
 cd sn1per
 bash install.sh
-
- 
