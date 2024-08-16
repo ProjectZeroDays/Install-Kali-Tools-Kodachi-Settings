@@ -1,10 +1,11 @@
 #!/bin/bash 
 #
 # Repo:
-# Install-Kali-Tools-Kodachi-Settings
+# Install Kali Tools With Kodachi Anominity Privacy Settings On Debian Distros
 # 
 # Description:
-# Configurations To Add Kali Linux Tools & Setup Kodachi's Privacy & Anonyminity Settings On Debian/Kali/Ubuntu Distros
+# This Is An Automated Configuration Script To Add Kali's Latest Keyring [Kali Linux Purple, Sources], & Install all Kali Linux Tools.
+# This Script Also Installs Tools & Configurations to Setup Kodachi's Privacy & Anonymity Settings On Debian, Kali & Ubuntu Distros.
 # 
 # Source:
 # https://github.com/ProjectZeroDays/Install-Kali-Tools-Kodachi-Settings
