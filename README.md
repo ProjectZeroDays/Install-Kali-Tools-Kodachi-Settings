@@ -1,6 +1,6 @@
 ### Setup Using:
 
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/ProjectZeroDays/Install-Kali-Tools-Kodachi-Settings/Your-Momma-Beeotch/README.md)"
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/ProjectZeroDays/Install-Kali-Tools-Kodachi-Settings/Your-Momma-Beeotch/README.md)"
 
 ### Todo List:
 1. Include an Jailbroken, uncensored, preconfigured, CLI AI model to search for things, generate and review code, build hacking tools or update apps to python3, etc.
